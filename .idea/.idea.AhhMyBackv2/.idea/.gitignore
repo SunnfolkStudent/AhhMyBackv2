@@ -2,10 +2,17 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+<<<<<<< HEAD
 /contentModel.xml
 /modules.xml
 /.idea.AhhMyBackv2.iml
 /projectSettingsUpdater.xml
+=======
+/.idea.AhhMyBackv2.iml
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+>>>>>>> 3de2a8f2bc85cc965c32c827912681d08fe4a9d2
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
